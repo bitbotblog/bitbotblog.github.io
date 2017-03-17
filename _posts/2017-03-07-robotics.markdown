@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Nightmare inducing - Boston Dynamics"
+date:   2017-03-07 17:16:58 +0100
+categories: jekyll update
+---
+
+Run if you see one of them
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-7xvqQeoA8c" frameborder="0" allowfullscreen></iframe>
+
