@@ -9,7 +9,6 @@ author: "Rodrigo"
 ---
 
 Do it your maze easy for your control-robotics project.
+[MazeGenerator](http://www.mazegenerator.net/)
 
-http://www.mazegenerator.net/
-
-![alt text](_data/ImageGenerator.ashx.svg maze)
+![alt text](_data/ImageGenerator.ashx.svg "Maze")
