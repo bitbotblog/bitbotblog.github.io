@@ -13,7 +13,7 @@ Is managed by:
 
 Here, you will find articles about robotics, videogames, maker's scene, and so on.
 
-You will find it at: [http://bitbotblog.github.io](http://bibotblog.github.io). 
+You will find it at: [http://bitbotblog.github.io](http://bitbotblog.github.io). 
 
 And,is fully opensource, ;).
 
