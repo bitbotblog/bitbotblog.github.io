@@ -2,7 +2,7 @@
 layout: post
 title:  "The Sauce Squirter"
 date:   2017-03-08 18:47:58 +0100
-categories: jekyll update
+categories: random
 ---
 
 Just what I needed all my life!
