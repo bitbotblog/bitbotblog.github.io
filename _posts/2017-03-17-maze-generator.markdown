@@ -11,4 +11,4 @@ author: "Rodrigo"
 Do it your maze easy for your control-robotics project.
 [MazeGenerator](http://www.mazegenerator.net/)
 
-![alt text](_data/ImageGenerator.ashx.svg "Maze")
+![alt text](http://www.mazegenerator.net/ImageGenerator.ashx?Tag=20170324203909&MazeType=1&Solution=0 "Maze")
