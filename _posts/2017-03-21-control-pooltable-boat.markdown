@@ -10,5 +10,4 @@ author: "Rodrigo"
 
 If you were wondering how it is possible play in a pool table on a boat... see this video.
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N-aE5oszXyQ" frameborder="0" allowfullscreen></iframe>
