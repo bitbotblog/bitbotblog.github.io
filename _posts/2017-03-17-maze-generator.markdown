@@ -11,4 +11,4 @@ author: "Rodrigo"
 Do it your maze easy for your control-robotics project.
 [MazeGenerator](http://www.mazegenerator.net/)
 
-![alt text](/_data/maze.png "Maze")
+![alt text](/assets/maze.png "Maze")
