@@ -1,1 +1,0 @@
-{"virtualbox":{"/srv/www/":{"create":true,"guestpath":"/srv/www","hostpath":"/Volumes/Home/Documents/Proyectos/Web/RAM/bitblotblog/www","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Volumes/Home/Documents/Proyectos/Web/RAM/bitblotblog","disabled":false,"__vagrantfile":true}}}
