@@ -4,6 +4,7 @@ title:  "Print your own furniture!"
 date:   2017-03-20 17:17:00 +0100
 categories:
   - Robotics
+  - 3D Printer
 keywords: robotics, 3d printer, furniture
 author: "Mariano"
 ---

@@ -3,7 +3,7 @@ layout: post
 title:  "Control on a boat... as a hobby."
 date:   2017-03-21 23:42:00 +0100
 categories:
-  - robotics
+  - Robotics
 keywords: robotics, control, boat
 author: "Rodrigo"
 ---

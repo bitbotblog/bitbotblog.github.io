@@ -4,6 +4,7 @@ title:  "Airbus Car Drone"
 date:   2017-03-10 16:51:00 +0100
 categories: drone
 keywords: drone, airbus
+author: "Rodrigo"
 ---
 
 Make a drone of your car!

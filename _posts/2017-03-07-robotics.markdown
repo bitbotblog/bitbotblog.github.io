@@ -2,7 +2,9 @@
 layout: post
 title:  "Nightmare inducing - Boston Dynamics"
 date:   2017-03-07 17:16:58 +0100
-categories: jekyll update
+categories: robotics
+keywords: robotics, boston dynamics
+author: "Alejandro"
 ---
 
 Run if you see one of them

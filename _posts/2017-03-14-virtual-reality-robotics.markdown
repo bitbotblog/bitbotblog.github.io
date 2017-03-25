@@ -4,8 +4,7 @@ title:  "Robotics and Virtual reality"
 date:   2017-03-14 21:19:00 +0100
 categories:
   - Robotics
-  - Camera
-keywords: robotics, camera
+keywords: robotics, camera, VR
 ---
 
 Virtual Reality #1 Building a Tracked Game Camera 

@@ -4,8 +4,9 @@ title:  "Game Boy Zero"
 date:   2017-03-12 10:42:00 +0100
 categories:
   - Misc
-  - Idea
-keywords: rpi, gameboy
+  - IoT
+keywords: rpi, gameboy, iot
+author: "Mariano"
 ---
 
 Interesting project about a miniature [GameBoy with RPi Zero](https://hackaday.io/project/20152-gameboy-zero-but-smaller)
