@@ -2,7 +2,7 @@
 layout: post
 title:  "Printing robotics arm"
 date:   2017-04-08 00:00:00
-categories:
+category:
   - Robotics
 keywords: robotics, 3dprinter
 author: "Rodrigo"
