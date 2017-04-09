@@ -8,6 +8,7 @@ keywords: robotics, diy
 author: "Alejandro"
 ---
 
-The queen of shity robots
+The queen of shity robots.
+Take a look on her channel, it has no waste =p
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KcxlSLNH5M0" frameborder="0" allowfullscreen></iframe>
