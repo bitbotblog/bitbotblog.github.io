@@ -3,7 +3,7 @@ layout: post
 title:  "Robotics Education Punishment"
 date:   2017-04-04 00:00:00 +0100
 categories:
-  - Robotics
+  - robotics
 keywords: robotics, asimov
 author: "Rodrigo"
 ---
