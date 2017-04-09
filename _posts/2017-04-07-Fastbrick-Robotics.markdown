@@ -2,8 +2,7 @@
 layout: post
 title:  "Fastbrick Robotics"
 date:   2017-04-07 00:00:00 +0100
-categories:
-  - Robotics
+category: robotics
 keywords: robotics, construction
 author: "Rodrigo"
 ---
