@@ -4,6 +4,6 @@ main:
   - title: "About"
     url: /about/
   - title: "Archives"
-    url: /archives/
+    url: /category_archives/
   - title: "GitHub"
     url: #
