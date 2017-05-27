@@ -9,6 +9,7 @@ author: "Alejandro"
 ---
 
 Let's go to sensor everything!
-http://hackaday.com/2017/05/19/sense-all-the-things-with-a-synthetic-sensor/
+
+[Hack a Day Blog](http://hackaday.com/2017/05/19/sense-all-the-things-with-a-synthetic-sensor/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aqbKrrru2co" frameborder="0" allowfullscreen></iframe>
