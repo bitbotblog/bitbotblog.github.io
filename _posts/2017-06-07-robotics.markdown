@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Robots!"
+date:   2017-06-07 20:00:00 +0100
+categories:
+  - robotics
+keywords: robotics
+author: "Rodrigo"
+---
+
+Swarm User Interfaces
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Ik7V_QH5wk" frameborder="0" allowfullscreen></iframe>
+
+Autonomous blimp detects faces and hand movements
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7NfUU1V6jxs" frameborder="0" allowfullscreen></iframe>
+
+Bottomless Joystick
+<iframe src="https://player.vimeo.com/video/194487081" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
